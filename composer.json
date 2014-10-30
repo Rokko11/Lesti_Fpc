@@ -10,7 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.23"
+        "php": ">=5.3.23",
+        "magento-hackathon/magento-composer-installer": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "*",
